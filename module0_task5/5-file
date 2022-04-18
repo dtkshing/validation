@@ -1,0 +1,5 @@
+#!/bin/bash
+#echo -e "Hello DevOps\n" > "\*\\\'\"DevOps\"\'\\\*$\?\*\*\*\*\*:\)"
+file="\*\\\'\"DevOps\"\'\\\*$\?\*\*\*\*\*:\)"
+echo -e "Hello DevOps\n" > $file
+
